@@ -23,7 +23,7 @@ GM DOWNLOADER is licensed for **personal, non-commercial use only**.
 - Personal and private use only  
 - Downloading files for personal purposes  
 - Modifying the source code only for personal use and learning, while keeping this
-  license and copyright notices intact  
+  license and all copyright notices intact  
 
 ### Prohibited Use
 The following actions are **strictly prohibited**:
@@ -33,6 +33,7 @@ The following actions are **strictly prohibited**:
 - Using the software in paid services, platforms, or products  
 - Redistributing modified or unmodified versions for commercial purposes  
 - Claiming the software or its source code as your own work  
+- Removing or changing the software name, author name, or copyright notices
 
 **Any violation of these terms may result in legal action under international
 copyright laws.**
@@ -54,13 +55,13 @@ The user is **solely responsible** for how this software is used.
   for misuse of the software.  
 - Downloading copyrighted, restricted, or illegal content without proper permission
   is the user’s responsibility.  
-- This software does not encourage or endorse piracy or copyright infringement.
+- This software does **not** encourage or endorse piracy or copyright infringement.
 
 ---
 
 ## Legal Warning
 Any unauthorized use of GM DOWNLOADER, including but not limited to commercial use,
-resale, rental, or redistribution, may result in legal action.
+sale, rental, redistribution, or renaming, may result in legal action.
 
 ---
 
